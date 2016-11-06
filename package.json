@@ -1,0 +1,14 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "An app that connects users and the best places for outdoor exploration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hiking"
+  ],
+  "author": "Laurence Cruz",
+  "license": "ISC"
+}
